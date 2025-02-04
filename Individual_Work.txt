@@ -8,7 +8,7 @@ Florin Silviu Dinu
 - Results for Llama-qlora and RoLlama (document + presentation)
 
 ----
-Andrei
+Andrei-Virgil Ilie
 - Datasets: Argeș, Brăila, Buzău, Călărași, Dâmbovița, Giurgiu, Ialomița, Ilfov, Prahova, Bucuresti, Alba, Bihor, Bistrița-Năsăud, Brașov, Cluj, Covasna, Harghita, Hunedoara, Mureș, Sălaj, Sibiu.
 - Created the cleaning script with goose3
 - Created the statistics script and computed them
@@ -18,4 +18,11 @@ Andrei
 - Abstract
 
 ----
-Mihai
+Mihai Dilirici
+- Datasets: Maramureș, Bucovina, Crișana, Banat, Dobrogea
+- Cleaned above datasets
+- Perplexity: Ro-Bert
+- General script for perplexity and negative log likelihood reporting
+- Identify and correct mistakes in the document and presentation
+- Theory about Ro-Bert (document + presentation)
+- Results for Ro-Bert (document + presentation)
