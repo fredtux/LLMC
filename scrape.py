@@ -7,7 +7,7 @@ from time import sleep
 import requests
 import os
 
-website_name = input("Ziarul: ")
+website_name = input("Ziarul: ") # example : dezvaluiri.ro
 
 # Define categories with their URLs
 categories = {
