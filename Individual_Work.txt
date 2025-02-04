@@ -9,6 +9,13 @@ Florin Silviu Dinu
 
 ----
 Andrei
+- Datasets: Argeș, Brăila, Buzău, Călărași, Dâmbovița, Giurgiu, Ialomița, Ilfov, Prahova, Bucuresti, Alba, Bihor, Bistrița-Năsăud, Brașov, Cluj, Covasna, Harghita, Hunedoara, Mureș, Sălaj, Sibiu.
+- Created the cleaning script with goose3
+- Created the statistics script and computed them
+- Random Forest on texts, sentences with TF-IDF and Word2Vec
+- Theory about Random Forest(document + presentation)
+- Statistic Results, Random Forest results(document + presentation)
+- Abstract
 
 ----
 Mihai
