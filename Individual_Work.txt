@@ -1,0 +1,14 @@
+Florin Silviu Dinu
+- Datasets: Republic of Moldova, Moldova, Oltenia, Teleorman, Ukraine, Serbia, Canada, Spain, Italy, UK, Germany
+- Cleaned above datasets + Ardeal and Muntenia
+- Perplexity: Llama-qlora, RoLlama
+- General script for perplexity and negative log likelihood reporting
+- Introduction (document + presentation)
+- Theory about Llama-qlora and RoLlama (document + presentation)
+- Results for Llama-qlora and RoLlama (document + presentation)
+
+----
+Andrei
+
+----
+Mihai
